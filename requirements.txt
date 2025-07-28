@@ -3,3 +3,4 @@ opencv-python
 numpy
 scikit-learn
 Pillow
+>>>>>>> e0dca84 (Moved training scripts into main/)
